@@ -1,2 +1,1 @@
-# awplab
-my lab
+Advanced Web Programming Lab
